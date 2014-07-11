@@ -12,7 +12,7 @@
     "ANOTHER_KEY": {
       "description": "a key that does something special",
       "required": true
-    }
+    },
     "SOME_SECRET": {
       "generator": "secret"
     }
