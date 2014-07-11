@@ -5,10 +5,13 @@
   "repository": "https://github.com/heroku/ruby-rails-sample",
   "logo": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg",
   "scripts": {
-    "postdeploy": "bundle exec rake db:migrate"
+    "postdeploy": "sleep 10; bundle exec rake db:migrate"
   },
   "env": {
-    "RAILS_ENV": "production"
+    "RAILS_ENV": "production",
+    "SOME_SECRET": {
+      "generator": "secret"
+    }
   },
   "addons": ["heroku-postgresql"]
 }
