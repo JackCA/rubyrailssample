@@ -1,4 +1,4 @@
-[![Deploy on Heroku](https://s3.amazonaws.com/f.cl.ly/items/12030r0c0J3z123k442i/deploy-button.png)](https://www-dev.heroku.com/deploy?template=https%3A%2F%2Fgithub.com%2FJackCA%2Frubyrailssample)
+[![Deploy on Heroku](https://s3.amazonaws.com/f.cl.ly/items/12030r0c0J3z123k442i/deploy-button.png)](https://www-dev.heroku.com/deploy)
 
 # ruby-rails-sample
 
