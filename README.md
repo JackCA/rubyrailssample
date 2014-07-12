@@ -2,6 +2,8 @@
 
 # ruby-rails-sample
 
+[![Deploy on Heroku](https://s3.amazonaws.com/f.cl.ly/items/12030r0c0J3z123k442i/deploy-button.png)](https://heroku.com/deploy)
+
 This is a simple Ruby app using the [Rails](http://rubyonrails.org) framework.
 
 ## Running Locally
