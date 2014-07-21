@@ -13,7 +13,7 @@
       "description": "a key that does something special",
       "required": true
     },
-    "SOME_SECRET": {
+    "BRANCH_SECRET": {
       "generator": "secret"
     }
   },
