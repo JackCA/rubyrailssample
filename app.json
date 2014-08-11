@@ -15,6 +15,9 @@
     },
     "SOME_SECRET": {
       "generator": "secret"
+    },
+    "OPTIONAL": {
+      "required": false
     }
   },
   "addons": ["heroku-postgresql"]
